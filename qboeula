@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>End User License Agreement</title>
+</head>
+<body>
+  <h1>End User License Agreement (EULA)</h1>
+
+  <p>This End User License Agreement ("Agreement") is between you ("User") and [Atari], and governs the use of the internal reporting application built to connect with QuickBooks Online via API.</p>
+
+  <h2>1. License Grant</h2>
+  <p>[Atari] grants you a limited, non-transferable, non-exclusive license to use the application internally for reporting and analysis purposes only.</p>
+
+  <h2>2. Restrictions</h2>
+  <p>You agree not to:</p>
+  <ul>
+    <li>Copy, distribute, or resell the application</li>
+    <li>Use the application for any unlawful or external commercial use</li>
+    <li>Reverse engineer or attempt to extract the source code</li>
+  </ul>
+
+  <h2>3. Ownership</h2>
+  <p>The application and its content remain the property of [Atari].</p>
+
+  <h2>4. Termination</h2>
+  <p>This Agreement is effective until terminated. Your rights will terminate automatically if you violate any part of this Agreement.</p>
+
+  <h2>5. Disclaimer</h2>
+  <p>This application is provided "as is" without warranty of any kind. [Atari] is not liable for any damages resulting from its use.</p>
+
+  <h2>6. Contact</h2>
+  <p>If you have any questions about this agreement, contact us at [bittoo.kumarjha@atari.com].</p>
+
+  <p>© [2024] [Atari]. All rights reserved.</p>
+</body>
+</html>
